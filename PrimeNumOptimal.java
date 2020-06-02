@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Changes made to Branch2
+=======
+Making changes to Branch1
+>>>>>>> branch1
 package com.recursion;
 
 import java.util.ArrayList;
